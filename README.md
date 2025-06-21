@@ -23,7 +23,4 @@ IntentEX enables individuals to license ephemeral cognitive signals without reve
 
 ## 🔐 SHA-256 Checksum
 
-To be added.
-## 🔐 SHA-256 Checksum
-
 `2b986f1b1d37d3d8b7ff72ae2dc81feff9d50c5813ec0dcd109f2d5c30e56cf1`
