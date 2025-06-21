@@ -17,7 +17,7 @@ IntentEX enables individuals to license ephemeral cognitive signals without reve
 
 ## 📁 Files
 
-- [IntentEX Press Release PDF](./IntentEX_Official_Press_Release_Steven_Alber_2025_06_21.pdf)
+- [IntentEX Press Release PDF](./IntentEX_Official_Press_Release_Steven_Alber_2025_06_21.pdf.pdf)
 
 ---
 
